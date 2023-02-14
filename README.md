@@ -2,13 +2,13 @@
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="300" height="150"/>
   <div id="badges">
     <a href="https://pavel8lisenkov.github.io/cv/">
-      <img src="https://img.shields.io/badge/my%20Resume-00b1c1?style=for-the-badge&logo=reacthookform&logoColor=white" alt="CV Badge"/>
+      <img src="https://img.shields.io/badge/мое%20резюме-00b1c1?style=for-the-badge&logo=reacthookform&logoColor=white" alt="CV Badge"/>
     </a>
     <a href="mailto:pavel8lisenkov@yandex.ru">
       <img src="https://img.shields.io/badge/Яндекс.Почта-ff4000?style=for-the-badge&logo=yandex&logoColor=white" alt="Яндекс.Почта Badge"/>
     </a>
     <a href="https://t.me/pavel8lisenkov">
-      <img src="https://img.shields.io/badge/Telegram-0088cc?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
+      <img src="https://img.shields.io/badge/Телеграм-0088cc?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
     </a>
   </div>
   
