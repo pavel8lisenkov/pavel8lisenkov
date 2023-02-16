@@ -15,7 +15,7 @@
   ### :man_technologist: Обо мне :
   
   <p align="justify">
-    Привет <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="20px"/> Я веб-разработчик и мне нравится создавать красивые интерактивные сайты. В настоящее время я работаю над несколькими небольшими веб-проектами. Люблю проводить много времени, занимаясь тем, что мне интересно. Изучаю новые технологии, развиваюсь как React-разработчик.
+    Привет <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="20px"/> Я веб-разработчик и мне нравится создавать красивые интерактивные сайты. В настоящее время я работаю над несколькими небольшими веб-проектами. Люблю проводить время с удовольствием и пользой. Изучаю новые технологии и развиваюсь как React-разработчик.
   </p>
   
 ---
@@ -48,7 +48,7 @@
 
 <div align="center">
 
-### :hammer_and_wrench: Инструменты :
+### :hammer_and_wrench: Технологии:
 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
@@ -57,10 +57,21 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
 </div>
+
+### :computer: Codewars:
+
+![codewars](https://www.codewars.com/users/pavel8lisenkov/badges/large)
   
-### :fire: Статистика GitHub :
+### :gear: Статистика GitHub :
 
-![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=pavel8lisenkov&locale=ru&theme=vue)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pavel8lisenkov&layout=compact&theme=vue)
+<table>
+  <tr>
+    <td>
+      <img height="140px" align="left" src="http://github-readme-streak-stats.herokuapp.com?user=pavel8lisenkov&locale=ru&theme=vue" alt="webDev's Github stats" />
+    </td>
+    <td>
+      <img align="right" alt="webDev's Github Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pavel8lisenkov&layout=compact&theme=vue" />
+    </td>
+  </tr>
+</table>
 </div>
