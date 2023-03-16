@@ -28,6 +28,7 @@
 
 </div>  
   
+- [Web приложение - терминал оплаты мобильного телефона](https://payment-terminal-alpha.vercel.app/)
 - [Пример верстки с добавлением функционала при помощи JavaScript](https://rolling-scopes-school.github.io/pavel8lisenkov-JSFEPRESCHOOL2022Q4/plants/)
 - [Копия расширения браузера Momentum](https://rolling-scopes-school.github.io/pavel8lisenkov-JSFEPRESCHOOL2022Q2/momentum/)
 - [Пример отзывчивой верстки странички](https://rolling-scopes-school.github.io/pavel8lisenkov-JSFE2022Q3/online-zoo/pages/main/)
